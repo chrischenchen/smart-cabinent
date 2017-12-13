@@ -15,8 +15,8 @@
 #### 3.ctrl+F快捷键
 #### 4.layout 多窗格
 
-## 3.Aphche以及mysql要调成start模式。
-## 4.文件要保存在 C:\xampp\htdocs的根目录下
+### 3.Aphche以及mysql要调成start模式。
+### 4.文件要保存在 C:\xampp\htdocs的根目录下
  暂定文件夹的名字为：yaohe
  
  ### 需要准备的文件：
