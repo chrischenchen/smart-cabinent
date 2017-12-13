@@ -9,11 +9,11 @@
  链接：https://www.apachefriends.org/zh_cn/index.html
 ### 2.编程编辑器：sublime text 3
 链接：https://www.sublimetext.com/3
-1.syntax settings语法设置
-2.package control
+#### 1.syntax settings语法设置
+#### 2.package control
 (1)tools————>install package control————>command palette————>install package（选中，并用鼠标单击）
-3.ctrl+F快捷键
-4.layout 多窗格
+#### 3.ctrl+F快捷键
+#### 4.layout 多窗格
 
 3.Aphche以及mysql要调成start模式。
 4.文件要保存在 C:\xampp\htdocs的根目录下
