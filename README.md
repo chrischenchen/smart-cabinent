@@ -1,13 +1,20 @@
-# -
+# 智能药盒
 背景介绍：
     智能药盒用来存放老年人需要吃的药，要摇动手柄达到一定的电量，智能药盒才会弹开。每个老年人都有一个自己的药盒，每个人的发电量会保存到数据库当中。数据库里有每个用户的名字，头像，发电量，排名等数据。
     要根据用户的发电量，进行名次排序。
     有的用户的发电量如果低于标准发电量的值，数值要用红色标出。
  
- 电脑环境配置：
-1.下载xampp建站集成软件包（（Apache+MySQL+PHP+PERL））
+## 电脑环境配置：
+### 1.下载xampp建站集成软件包（（Apache+MySQL+PHP+PERL））
  链接：https://www.apachefriends.org/zh_cn/index.html
-2.编程编辑器：sublime text 3
+### 2.编程编辑器：sublime text 3
+链接：https://www.sublimetext.com/3
+1.syntax settings语法设置
+2.package control
+(1)tools————>install package control————>command palette————>install package（选中，并用鼠标单击）
+3.ctrl+F快捷键
+4.layout 多窗格
+
 3.Aphche以及mysql要调成start模式。
 4.文件要保存在 C:\xampp\htdocs的根目录下
  暂定文件夹的名字为：yaohe
